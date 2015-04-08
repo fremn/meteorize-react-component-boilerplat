@@ -1,5 +1,7 @@
-Griddle https://github.com/DynamicTyped/Griddle/ ReactJs component repackaging for Meteor packaging system.
+A boilerplate for making React Components usable with Meteor's Package Manager
 
-reactjs:react is a dependency.
+1) replace the replace-me.js file with the react-component js you want
 
-Usage is the same as in Griddle readme, except no require() required.
+2) update package.js
+
+3) replace this readme
